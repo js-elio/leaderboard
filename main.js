@@ -16,6 +16,11 @@ const colors = [
   // array describing the drivers, sorted by position and with a gap describing the distance from the leading driver
   const leaderboard = [
     {
+      name: 'Albert',
+      team: '1993 Zeilen Code, 31 Konzepte',
+      gap: '202'
+    },
+    {
       name: 'Emilian',
       team: '1188 Zeilen Code, 21 Konzepte',
       gap: '188'
